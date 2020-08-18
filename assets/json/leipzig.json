@@ -1,0 +1,23 @@
+[
+    
+    {"name":"Peter Gulacsi (1)","position":"Goalkeeper","nationality":"HUN"},
+    {"name":"Yvon Mvogo (28)","position":"Goalkeeper","nationality":"SUI"},
+
+    {"name":"Angelino (3)","position":"Defender","nationality":"ESP"},
+    {"name":"Willi Orban (4)","position":"Defender","nationality":"GER"},
+    {"name":"Dayot Upamecano (5)","position":"Defender","nationality":"FRA"},
+    {"name":"Ibrahima Konate (6)","position":"Defender","nationality":"FRA"},
+
+    {"name":"Amadou Haidara (8)","position":"Midfielder","nationality":"MLI"},
+    {"name":"Christopher Nkunku (18)","position":"Midfielder","nationality":"FRA"},
+    {"name":"Konrad Laimer (27)","position":"Midfielder","nationality":"AUT"},
+    {"name":"Kevin Kampl (44)","position":"Midfielder","nationality":"SVN"},
+    {"name":"Tyler Adams (14)","position":"Midfielder","nationality":"USA"},
+
+    {"name":"Marcel Sabitzer (7)","position":"Forward","nationality":"AUT"},
+    {"name":"Yussuf Poulsen (9)","position":"Forward","nationality":"DEN"},
+    {"name":"Emil Forsberg (10)","position":"Forward","nationality":"SWE"},
+    {"name":"Patrik Schick (21)","position":"Forward","nationality":"CZE"},
+    {"name":"Hugo Novoa Ramos (38)","position":"Forward","nationality":"ESP"}
+    
+]

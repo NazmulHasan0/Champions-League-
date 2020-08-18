@@ -1,0 +1,23 @@
+[
+    
+    {"name":"Anthony Lopes (1)","position":"Goalkeeper","nationality":"POR"},
+    {"name":"Anthony Racioppi (16)","position":"Goalkeeper","nationality":"SUI"},
+
+    {"name":"Joachim Andersen (3)","position":"Defender","nationality":"DEN"},
+    {"name":"Rafael (4)","position":"Defender","nationality":"BRA"},
+    {"name":" Jason Denayer (5)","position":"Defender","nationality":"BEL"},
+    {"name":"Marcelo (6)","position":"Defender","nationality":"BRA"},
+
+    {"name":"Houssem Aouar (8)","position":"Midfielder","nationality":"FRA"},
+    {"name":"Thiago Mendes (12)","position":"Midfielder","nationality":"BRA"},
+    {"name":"Jeff Reine Adelaide (17)","position":"Midfielder","nationality":"FRA"},
+    {"name":"Jean Lucas (22)","position":"Midfielder","nationality":"BRA"},
+    {"name":"Maxence Caqueret (25)","position":"Midfielder","nationality":"FRA"},
+
+    {"name":"Moussa Dembele (9)","position":"Forward","nationality":"FRA"},
+    {"name":"Bertrand Traore (10)","position":"Forward","nationality":"BFA"},
+    {"name":"Memphis Depay (11)","position":"Forward","nationality":"NED"},
+    {"name":"Maxwel Cornet (27)","position":"Forward","nationality":"CIV"},
+    {"name":"Karl Toko Ekambi (21)","position":"Forward","nationality":"FRA"}
+    
+]

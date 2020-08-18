@@ -1,0 +1,23 @@
+[
+    
+    {"name":"Manuel Neuer (1)","position":"Goalkeeper","nationality":"GER"},
+    {"name":"Ron Torben Hoffmann (39)","position":"Goalkeeper","nationality":"GER"},
+
+    {"name":"Niklas Sule (4)","position":"Defender","nationality":"GER"},
+    {"name":"Benjamin Pavard (5)","position":"Defender","nationality":"FRA"},
+    {"name":"Jerome Boateng (17)","position":"Defender","nationality":"GER"},
+    {"name":"David Alaba (27)","position":"Defender","nationality":"AUT"},
+
+    {"name":"Thiago Alcantara (6)","position":"Midfielder","nationality":"ESP"},
+    {"name":"Javi Martinez (8)","position":"Midfielder","nationality":"ESP"},
+    {"name":"Philippe Coutinho (10)","position":"Midfielder","nationality":"BRA"},
+    {"name":"Corentin Tolisso (24)","position":"Midfielder","nationality":"FRA"},
+    {"name":"Joshua Kimmich (32)","position":"Midfielder","nationality":"GER"},
+
+    {"name":"Robert Lewandowski (9)","position":"Forward","nationality":"POL"},
+    {"name":"Serge Gnabry (22)","position":"Forward","nationality":"GER"},
+    {"name":"Ivan Perisic (14)","position":"Forward","nationality":"CRO"},
+    {"name":"Thomas Muller (25)","position":"Forward","nationality":"GER"},
+    {"name":"Kingsley Coman (29)","position":"Forward","nationality":"FRA"}
+    
+]

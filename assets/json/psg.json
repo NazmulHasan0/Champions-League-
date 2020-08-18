@@ -1,0 +1,23 @@
+[
+    
+    {"name":"Keylor Navas (1)","position":"Goalkeeper","nationality":"CRC"},
+    {"name":"Sergio Rico (16)","position":"Goalkeeper","nationality":"ESP"},
+
+    {"name":"Thiago Silva (2)","position":"Defender","nationality":"BRA"},
+    {"name":"Presnel Kimpembe (3)","position":"Defender","nationality":"FRA"},
+    {"name":"Thilo Kehrer (4)","position":"Defender","nationality":"GER"},
+    {"name":"Marquinhos (5)","position":"Defender","nationality":"BRA"},
+
+    {"name":"Marco Verratti (6)","position":"Midfielder","nationality":"ITA"},
+    {"name":"Leandro Paredes (8)","position":"Midfielder","nationality":"ARG"},
+    {"name":"Pablo Sarabia (19)","position":"Midfielder","nationality":"ESP"},
+    {"name":"Ander Herrera","position":"Midfielder","nationality":"ESP"},
+    {"name":"Idrissa Gueye","position":"Midfielder","nationality":"SEN"},
+
+    {"name":"Neymar (10)","position":"Forward","nationality":"BAR"},
+    {"name":"Kylian Mbappe (7)","position":"Forward","nationality":"FRA"},
+    {"name":"Angel Di Maria (11)","position":"Forward","nationality":"ARG"},
+    {"name":"Choupo-Moting (17)","position":"Forward","nationality":"CMR"},
+    {"name":"Mauro Icardi (18)","position":"Forward","nationality":"ARG"}
+    
+]

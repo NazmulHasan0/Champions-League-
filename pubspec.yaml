@@ -1,0 +1,155 @@
+name: DemoApp
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+  # json file
+    - assets/json/psg.json
+    - assets/json/leipzig.json
+    - assets/json/lyon.json
+    - assets/json/bayern.json
+  # dashboard photo
+    - photo/uefa.jpg
+    - photo/psg.jpg
+    - photo/leipzig.png
+    - photo/lyon.jpg
+    - photo/bayern.jpg
+    # psg
+    - assets/psg/1KeylorNavas.jpg
+    - assets/psg/2SergioRico.jpg
+    - assets/psg/3ThiagoSilva.jpg
+    - assets/psg/4PresnelKimpembe.jpg
+    - assets/psg/5ThiloKehrer.jpg
+    - assets/psg/6Marquinhos.jpg
+    - assets/psg/7MarcoVerratti.jpg
+    - assets/psg/8LeandroParedes.jpg
+    - assets/psg/9PabloSarabia.jpg
+    - assets/psg/10AnderHerrera.jpg
+    - assets/psg/11IdrissaGueye.jpg
+    - assets/psg/12Neymar.jpg
+    - assets/psg/13KylianMbappé.jpg
+    - assets/psg/14AngelDiMaria.jpg
+    - assets/psg/15ChoupoMoting.jpg
+    - assets/psg/16MauroIcardi.jpg
+    # leipzig
+    - assets/leipzig/1PeterGulacsi .jpg
+    - assets/leipzig/2YvonMvogo.jpg
+    - assets/leipzig/3Angelino.jpg
+    - assets/leipzig/4WilliOrban.jpg
+    - assets/leipzig/5Dayot Upamecano.jpg
+    - assets/leipzig/6IbrahimaKonate.jpg
+    - assets/leipzig/7AmadouHaidara.jpg
+    - assets/leipzig/8ChristopherNkunku.jpg
+    - assets/leipzig/9KonradLaimer.jpg
+    - assets/leipzig/10KevinKampl.jpg
+    - assets/leipzig/11TylerAdams.jpg
+    - assets/leipzig/12MarcelSabitzer.jpg
+    - assets/leipzig/13YussufPoulsen.jpg
+    - assets/leipzig/14EmilForsberg.jpeg
+    - assets/leipzig/15PatrikSchick.jpg
+    - assets/leipzig/16HugoNovoaRamosjpg.jpg
+    # lyon
+    - assets/lyon/1AnthonyLopes.jpg
+    - assets/lyon/2AnthonyRacioppi.jpg
+    - assets/lyon/3JoachimAndersen.jpg
+    - assets/lyon/4Rafael.jpg
+    - assets/lyon/5JasonDenayer.jpg
+    - assets/lyon/6Marcelo.jpg
+    - assets/lyon/7HoussemAouar.jpg
+    - assets/lyon/8ThiagoMendes.jpg
+    - assets/lyon/9JeffReineAdelaide.jpg
+    - assets/lyon/10JeanLucas.jpg
+    - assets/lyon/11MaxenceCaqueret.jpg
+    - assets/lyon/12MoussaDembele.jpg
+    - assets/lyon/13BertrandTraore.jpg
+    - assets/lyon/14MemphisDepay.jpg
+    - assets/lyon/15MaxwelCornet.jpg
+    - assets/lyon/16KarlTokoEkambi.jpg
+    # bayern
+    - assets/bayern/1ManuelNeuer.jpg
+    - assets/bayern/2RonTorbenHoffmann.jpg
+    - assets/bayern/3NiklasSule.jpg
+    - assets/bayern/4BenjaminPavard.jpg
+    - assets/bayern/5JeromeBoateng.jpg
+    - assets/bayern/6DavidAlaba.jpg
+    - assets/bayern/7ThiagoAlcantara.jpg
+    - assets/bayern/8JaviMartinez.jpg
+    - assets/bayern/9PhilippeCoutinho.jpg
+    - assets/bayern/10CorentinTolisso.jpg
+    - assets/bayern/11JoshuaKimmich.jpg
+    - assets/bayern/12RobertLewandowski.jpg
+    - assets/bayern/13SergeGnabryjpg.jpg
+    - assets/bayern/14IvanPerisic.jpg
+    - assets/bayern/15ThomasMuller.jpg
+    - assets/bayern/16KingsleyComan.jpg
+
+    
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
